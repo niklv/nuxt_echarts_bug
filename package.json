@@ -1,0 +1,17 @@
+{
+  "name": "nuxt_echarts_bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "echarts": "^5.3.3",
+    "nuxt-edge": "^2.16.0-27616340.013f051b",
+    "vue-echarts": "^6.2.3"
+  }
+}
